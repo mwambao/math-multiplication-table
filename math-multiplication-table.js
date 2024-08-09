@@ -1,3 +1,4 @@
+/*
 # math-multiplication-table
 
 In this project, you will create a math multiplication table using loops. You can do
@@ -14,3 +15,4 @@ row and column values to the temp array.
 5. Add the temporary row data that contains the calculated solutions to the
 main array of the final table. The final result will add a row of values for the
 calculations.
+*/
